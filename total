@@ -1,0 +1,5 @@
+import pandas as pd
+import seaborn as sns
+import numpy as no
+
+bbdd = pd.read_csv('https://github.com/MinCiencia/Datos-COVID19/blame/26d7605f10a5cf5b1009f2b88f7c0037ad585ba8/output/producto5/TotalesNacionales.csv')
